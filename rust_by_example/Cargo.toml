@@ -1,0 +1,28 @@
+[workspace]
+resolver = "3"
+members = [
+    "example_01_hello_world",
+    # "example_02_primitives",
+    # "example_03_custom_types",
+    # "example_04_variable_bindings",
+    # "example_05_types",
+    # "example_06_conversion",
+    # "example_07_expressions",
+    # "example_08_flow_of_control",
+    # "example_09_functions",
+    # "example_10_modules",
+    # "example_11_crates",
+    # "example_12_cargo",
+    # "example_13_attributes",
+    # "example_14_generics",
+    # "example_15_scoping_rules",
+    # "example_16_traits",
+    # "example_17_macros",
+    # "example_18_error_handling",
+    # "example_19_std_library_types",
+    # "example_20_std_misc",
+    # "example_21_testing",
+    # "example_22_unsafe_operations",
+    # "example_23_compatibility",
+    # "example_24_meta"
+]
