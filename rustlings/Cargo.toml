@@ -1,0 +1,5 @@
+[workspace]
+resolver = "3"
+members = [
+    "exercise_00_intro",
+]
