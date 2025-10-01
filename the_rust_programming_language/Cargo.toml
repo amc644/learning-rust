@@ -1,5 +1,7 @@
 [workspace]
 resolver = "3"
 members = [
-    "project_001_variables",
+    "proj_031_variables",
+    "proj_032_data_types",
+    "proj_033_functions",
 ]
