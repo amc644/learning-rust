@@ -3,5 +3,5 @@ resolver = "3"
 members = [
     "proj_031_variables",
     "proj_032_data_types",
-    "proj_033_functions",
+    "proj_033_functions", "proj_034_comments",
 ]
